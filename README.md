@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<img src="https://github.com/PriyabrataNaskar/PriyabrataNaskar/blob/main/github.gif" alt="Welcome!" width="100%"/>
+<img src="https://github.com/PriyabrataSeemai/PriyabrataSeemai/blob/main/github.gif" alt="Welcome!" width="100%"/>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyabrata-naskar/)
-![](https://komarev.com/ghpvc/?username=PriyabrataNaskar&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=PriyabrataSeemai&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
 ## I'm a computer science grad from India and Android Engineer @Semaai. Helping Indonesian Farmers by Revolutionizing Agri-Tech ✔
 
