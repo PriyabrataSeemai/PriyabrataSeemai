@@ -36,8 +36,6 @@ I am a final year undergrad <b>Student</b> at the <b>University Institute of Tec
 <a href="https://www.linkedin.com/in/priyabrata-naskar/">
   <img align="left" alt="Priyabrata's LinkedIn" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://wa.me/404">
-  <img align="left" alt="Priyabrata's WhatsApp" width="32px" height="32px" src="https://github.com/PriyabrataNaskar/PriyabrataNaskar/blob/main/whatsapp.gif"/> </a>
 <br />
 
 ### Languages and Tools
@@ -51,25 +49,16 @@ I am a final year undergrad <b>Student</b> at the <b>University Institute of Tec
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-
----
-
-<a href="https://www.buymeacoffee.com/priyabrata" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
-
- - #### If you like what I do, maybe consider buying me a coffee 👈
-
----
 
 ### My GitHub Stats
 
 [![Priyabrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=PriyabrataSeemai)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyabrataNaskar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyabrataSeemai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyabrataNaskar&" alt="Priyabrata" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyabrataSeemai&" alt="Priyabrata" /></p>
 
 ---
 
